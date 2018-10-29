@@ -150,7 +150,7 @@
     <string name="LANGUAGE_TITLE_WHASQ">Langues</string>
     <string name="LANGUAGE_SUBTITLE_PROFILE">Sélectionnez les langues que vous parlez.</string>
     <string name="LANGUAGE_SUBTITLE_WHASQ">Sélectionnez la langue du whasq.</string>
-    <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Vous devez sélectionner au moions une langue.</string>
+    <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Vous devez sélectionner au moins une langue.</string>
     <string name="LANGUAGE_ERROR_NO_SELECTION">Oups, vous devez sélectionner au moins une langue</string>
 
 
